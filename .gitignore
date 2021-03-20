@@ -1,5 +1,8 @@
 # remove virtual environment
 
+# PyCharm
+.idea/
+
 # Environments
 .env
 .venv
@@ -13,3 +16,5 @@ venv.bak/
 /exercices/p2c4s2/one/first/
 /exercices/p2c4s2/two/second/
 /exercices/p2c4s2/three/third/
+
+
