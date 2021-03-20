@@ -9,3 +9,7 @@ ENV/
 env.bak/
 venv.bak/
 **/env/
+
+  exercices/p2c4s2/one/first/
+  exercices/p2c4s2/three/second/
+  exercices/p2c4s2/two/third/
